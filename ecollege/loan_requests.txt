@@ -1,0 +1,17 @@
+60
+20
+100
+80
+40
+300
+200
+100
+
+Request of 60 paid in full
+Request of 20 paid in full
+Request of 100 paid in full
+Request of 80 paid in full
+Request of 40 paid in full
+Request of 300 could not be paid in full. Parital payment of 200 made
+Outstanding Request:200
+Outstanding Request:100
